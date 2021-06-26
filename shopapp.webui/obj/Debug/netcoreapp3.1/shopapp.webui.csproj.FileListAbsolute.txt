@@ -76,7 +76,6 @@ C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\s
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.data.pdb
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.entity.pdb
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.business.pdb
-C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CoreCompileInputs.cache
@@ -140,3 +139,4 @@ C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\s
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.genruntimeconfig.cache
+C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.AssemblyReference.cache

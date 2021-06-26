@@ -5579,37 +5579,40 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sadikturan\\.nuget\\packages\\": {}
+    "C:\\Users\\haluk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sadikturan\\source\\github\\shopapp\\shopapp.webapi\\shopapp.webapi.csproj",
+      "projectUniqueName": "C:\\Users\\haluk\\Downloads\\shopapp\\shopapp\\shopapp.webapi\\shopapp.webapi.csproj",
       "projectName": "shopapp.webapi",
-      "projectPath": "C:\\Users\\sadikturan\\source\\github\\shopapp\\shopapp.webapi\\shopapp.webapi.csproj",
-      "packagesPath": "C:\\Users\\sadikturan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sadikturan\\source\\github\\shopapp\\shopapp.webapi\\obj\\",
+      "projectPath": "C:\\Users\\haluk\\Downloads\\shopapp\\shopapp\\shopapp.webapi\\shopapp.webapi.csproj",
+      "packagesPath": "C:\\Users\\haluk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\haluk\\Downloads\\shopapp\\shopapp\\shopapp.webapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sadikturan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\haluk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\sadikturan\\source\\github\\shopapp\\shopapp.business\\shopapp.business.csproj": {
-              "projectPath": "C:\\Users\\sadikturan\\source\\github\\shopapp\\shopapp.business\\shopapp.business.csproj"
+            "C:\\Users\\haluk\\Downloads\\shopapp\\shopapp\\shopapp.business\\shopapp.business.csproj": {
+              "projectPath": "C:\\Users\\haluk\\Downloads\\shopapp\\shopapp\\shopapp.business\\shopapp.business.csproj"
             },
-            "C:\\Users\\sadikturan\\source\\github\\shopapp\\shopapp.data\\shopapp.data.csproj": {
-              "projectPath": "C:\\Users\\sadikturan\\source\\github\\shopapp\\shopapp.data\\shopapp.data.csproj"
+            "C:\\Users\\haluk\\Downloads\\shopapp\\shopapp\\shopapp.data\\shopapp.data.csproj": {
+              "projectPath": "C:\\Users\\haluk\\Downloads\\shopapp\\shopapp\\shopapp.data\\shopapp.data.csproj"
             },
-            "C:\\Users\\sadikturan\\source\\github\\shopapp\\shopapp.entity\\shopapp.entity.csproj": {
-              "projectPath": "C:\\Users\\sadikturan\\source\\github\\shopapp\\shopapp.entity\\shopapp.entity.csproj"
+            "C:\\Users\\haluk\\Downloads\\shopapp\\shopapp\\shopapp.entity\\shopapp.entity.csproj": {
+              "projectPath": "C:\\Users\\haluk\\Downloads\\shopapp\\shopapp\\shopapp.entity\\shopapp.entity.csproj"
             }
           }
         }
@@ -5622,6 +5625,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
@@ -5664,7 +5668,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
