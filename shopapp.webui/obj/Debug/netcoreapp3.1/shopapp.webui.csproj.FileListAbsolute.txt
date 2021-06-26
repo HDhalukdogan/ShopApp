@@ -140,3 +140,10 @@ C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\s
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.genruntimeconfig.cache
 C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.AssemblyReference.cache
+C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webapi.deps.json
+C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webapi.runtimeconfig.json
+C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webapi.runtimeconfig.dev.json
+C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webapi.exe
+C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webapi.dll
+C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webapi.pdb
+C:\Users\haluk\Downloads\shopapp\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cs

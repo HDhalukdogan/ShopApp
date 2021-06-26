@@ -40,6 +40,7 @@
           "shopapp.business": "1.0.0",
           "shopapp.data": "1.0.0",
           "shopapp.entity": "1.0.0",
+          "shopapp.webapi": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -1521,6 +1522,23 @@
         },
         "compile": {
           "shopapp.entity.dll": {}
+        }
+      },
+      "shopapp.webapi/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3",
+          "Microsoft.EntityFrameworkCore.Sqlite": "3.1.3",
+          "Newtonsoft.Json": "12.0.3",
+          "shopapp.business": "1.0.0",
+          "shopapp.data": "1.0.0",
+          "shopapp.entity": "1.0.0"
+        },
+        "runtime": {
+          "shopapp.webapi.dll": {}
+        },
+        "compile": {
+          "shopapp.webapi.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3873,6 +3891,11 @@
       "sha512": ""
     },
     "shopapp.entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "shopapp.webapi/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
